@@ -1,3 +1,6 @@
 # SWE Article
 
 I am interested by the article "[The Reason Why Recession Will Not Impact Software Developers?](https://medium.com/geekculture/the-reason-why-recession-will-not-impact-software-developers-c699ef2e3f4d)" because of the recent increase in tech industry layoffs. I have concerns that the economic recession might continue, potentially impacting my post-graduation job plans. It's discouraging to witness layoffs affecting many intelligent and hardworking individuals that I know. The article offers some reassurance that the recession might not significantly affect our plans, but I am still a little skeptical about its optimistic outlook. I am eager to hear your opinions on this matter.
+
+## Comments - Athena
+This article was an interesting read since it's very topical and the ***concern about job security post-grad is on everyone's minds nowadays.*** I will say though that the article did very little to assuade my concerns since the tech industry is always going to be in demand and the mentions about layoffs is disconcerting. 
