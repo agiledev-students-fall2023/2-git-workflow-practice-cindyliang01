@@ -10,3 +10,5 @@ industries overhired etc. and needed to lay off employees, there are still
 plenty of companies (tech and non-tech) that are in need of software engineers.                                      
 It might take a couple hundred applications, but I think jobs are still out                                          
 there if you can find them.
+
+Christine Lei: I also couldn't finish the read due to the fact that I am not a memebr of Medium, but I was worried about the same thing as well. However, recently I have been thinking if I were to choose my major again and what would I choose. The answer is that I would still want to be a software developers because at least I know what I am learning is useful. Hoping the best of all of us(fingers crossed) !!!
